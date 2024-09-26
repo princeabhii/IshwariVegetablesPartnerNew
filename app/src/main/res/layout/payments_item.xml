@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="8dp"
+        android:id="@+id/cvMain"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="8dp"
+        app:cardBackgroundColor="@color/white"
+        app:cardCornerRadius="5dp"
+        app:cardElevation="4dp">
+
+
+        <LinearLayout
+            android:id="@+id/lvMain"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingTop="15dp"
+                android:paddingRight="10dp"
+                android:paddingBottom="10dp">
+
+                <TextView
+                    android:id="@+id/tvPaymentDate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:background="@drawable/grey_square"
+                    android:fontFamily="@font/roboto"
+                    android:paddingLeft="10dp"
+                    android:paddingTop="9dp"
+                    android:paddingRight="10dp"
+                    android:paddingBottom="9dp"
+                    android:text="27/04/1998"
+                    android:textColor="#4e4e4e"
+                    android:textSize="12dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvPaymentTypeTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:fontFamily="@font/didact_gothic"
+                    android:letterSpacing="0.10"
+                    android:paddingTop="1dp"
+                    android:text="Payment Type"
+                    android:textAllCaps="true"
+                    android:textColor="@color/Accent_Grey"
+                    android:textSize="9dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvPaymentType"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tvPaymentTypeTitle"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginTop="3dp"
+                    android:fontFamily="@font/didact_gothic"
+                    android:text=""
+                    android:textColor="#EF4009"
+                    android:textSize="14dp"
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="2">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.8"
+                    android:orientation="vertical"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="10dp"
+                    android:paddingTop="5dp"
+                    android:paddingRight="20dp"
+                    android:paddingBottom="10dp">
+
+                    <TextView
+                        android:id="@+id/tvPaymentAmount"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/poppins_medium"
+                        android:lineSpacingExtra="4dp"
+                        android:paddingBottom="5dp"
+                        android:text=""
+                        android:textColor="@color/green"
+                        android:textSize="16dp" />
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.2"
+                    android:orientation="vertical"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center_vertical"
+                    android:paddingRight="10dp"
+                    android:paddingBottom="10dp">
+
+                    <TextView
+                        android:id="@+id/tvChequeNoTitle"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="textEnd"
+                        android:fontFamily="@font/didact_gothic"
+                        android:letterSpacing="0.10"
+                        android:paddingTop="1dp"
+                        android:text="Cheque No."
+                        android:textAllCaps="true"
+                        android:textColor="@color/Accent_Grey"
+                        android:textSize="9dp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/tvChequeNo"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="3dp"
+                        android:fontFamily="@font/didact_gothic"
+                        android:text=""
+                        android:textAlignment="textEnd"
+                        android:textColor="@color/main_blue_color"
+                        android:textSize="13dp"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:id="@+id/tvAddedOn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/roboto"
+        android:textAlignment="textEnd"
+        android:lineSpacingExtra="4dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="15dp"
+        android:paddingBottom="10dp"
+        android:text=""
+        android:textColor="#797979"
+        android:textSize="12dp" />
+
+</LinearLayout>

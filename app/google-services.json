@@ -1,0 +1,301 @@
+{
+  "project_info": {
+    "project_number": "494460090924",
+    "firebase_url": "https://ishwari-vegetable-suppliers-default-rtdb.firebaseio.com",
+    "project_id": "ishwari-vegetable-suppliers",
+    "storage_bucket": "ishwari-vegetable-suppliers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494460090924:android:727e53946ad0d0b2962f89",
+        "android_client_info": {
+          "package_name": "com.techno.ishwarivegetablesuppliers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494460090924-ec4rejvg3m9ia30rf7rkd9m9o43bvr2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQBbF6F1k1GrXiW02upGnKmLOG_DiiTGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494460090924-ec4rejvg3m9ia30rf7rkd9m9o43bvr2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494460090924:android:32b6a2277e693179962f89",
+        "android_client_info": {
+          "package_name": "com.vasp.eurekapestcontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494460090924-ec4rejvg3m9ia30rf7rkd9m9o43bvr2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQBbF6F1k1GrXiW02upGnKmLOG_DiiTGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494460090924-ec4rejvg3m9ia30rf7rkd9m9o43bvr2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494460090924:android:8d2fe7455ce44a3d962f89",
+        "android_client_info": {
+          "package_name": "com.vasp.eurekapestcontrolpartner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494460090924-ec4rejvg3m9ia30rf7rkd9m9o43bvr2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQBbF6F1k1GrXiW02upGnKmLOG_DiiTGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494460090924-ec4rejvg3m9ia30rf7rkd9m9o43bvr2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494460090924:android:049dfe0ac2835353962f89",
+        "android_client_info": {
+          "package_name": "com.vasp.ishwariabhi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494460090924-ec4rejvg3m9ia30rf7rkd9m9o43bvr2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQBbF6F1k1GrXiW02upGnKmLOG_DiiTGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494460090924-ec4rejvg3m9ia30rf7rkd9m9o43bvr2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494460090924:android:1c59e0bf1197c84c962f89",
+        "android_client_info": {
+          "package_name": "com.vasp.ishwarivegetables"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494460090924-ec4rejvg3m9ia30rf7rkd9m9o43bvr2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQBbF6F1k1GrXiW02upGnKmLOG_DiiTGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494460090924-ec4rejvg3m9ia30rf7rkd9m9o43bvr2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494460090924:android:02d61320bcf4a34a962f89",
+        "android_client_info": {
+          "package_name": "com.vasp.ishwarivegetablespartner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494460090924-ec4rejvg3m9ia30rf7rkd9m9o43bvr2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQBbF6F1k1GrXiW02upGnKmLOG_DiiTGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494460090924-ec4rejvg3m9ia30rf7rkd9m9o43bvr2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494460090924:android:014552078bbcc737962f89",
+        "android_client_info": {
+          "package_name": "com.vasp.jaimaruti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494460090924-ec4rejvg3m9ia30rf7rkd9m9o43bvr2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQBbF6F1k1GrXiW02upGnKmLOG_DiiTGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494460090924-ec4rejvg3m9ia30rf7rkd9m9o43bvr2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494460090924:android:a5b48f790ff5723b962f89",
+        "android_client_info": {
+          "package_name": "com.vasp.jaimarutipartner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494460090924-ec4rejvg3m9ia30rf7rkd9m9o43bvr2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQBbF6F1k1GrXiW02upGnKmLOG_DiiTGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494460090924-ec4rejvg3m9ia30rf7rkd9m9o43bvr2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494460090924:android:49e3a80e6f07cfa2962f89",
+        "android_client_info": {
+          "package_name": "com.vasp.jaykisan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494460090924-ec4rejvg3m9ia30rf7rkd9m9o43bvr2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQBbF6F1k1GrXiW02upGnKmLOG_DiiTGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494460090924-ec4rejvg3m9ia30rf7rkd9m9o43bvr2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494460090924:android:7d93d19704b79957962f89",
+        "android_client_info": {
+          "package_name": "com.vasp.jaykisanpartner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494460090924-ec4rejvg3m9ia30rf7rkd9m9o43bvr2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQBbF6F1k1GrXiW02upGnKmLOG_DiiTGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494460090924-ec4rejvg3m9ia30rf7rkd9m9o43bvr2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

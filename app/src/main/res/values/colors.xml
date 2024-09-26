@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="colorPrimary">#292929</color>
+    <color name="colorPrimaryDark">#101010</color>
+    <color name="colorAccent">#d11343</color>
+    <color name="red">#e21b22</color>
+    <color name="Red">#D30808</color>
+    <color name="burgendy">#dc224b</color>
+    <color name="cardselect">#c3d3f7</color>
+    <color name="yellow">#BCBC00</color>
+    <color name="white">#FFFFFF</color>
+    <color name="lightest_black">#30000000</color>
+    <color name="black">#000000</color>
+    <color name="postusername">#050505</color>
+    <color name="Green">#30d546</color>
+    <color name="grey1">#49465b</color>
+    <color name="green">#0dad3a</color>
+    <color name="bg_green">#F7FFF9</color>
+    <color name="bg_blue">#F2F8FD</color>
+    <color name="bg_red">#FFF1F1</color>
+    <color name="Accent_Blue">#4993cf</color>
+    <color name="ButtonCOlor">#40a598</color>
+    <color name="hintcolor">#737d88</color>
+    <color name="ButtonCOlorr">#4CAF50</color>
+    <color name="LightButtonCOlorr">#FE4CAF50</color>
+    <color name="LighterButtonCOlorr">#FD4CAF50</color>
+    <color name="text_color">#575757</color>
+    <color name="title_color">#575757</color>
+    <color name="title_color_dark">#fff</color>
+    <color name="grey">#49465b</color>
+    <color name="commentdash">#65676b</color>
+    <color name="commentcount">#696b6f</color>
+    <color name="suggestbg">#e4e6eb</color>
+    <color name="createstorybg">#f7f8fa</color>
+    <color name="Seprator_Color">#e6e6e6</color>
+    <color name="Group_Title">#505050</color>
+    <color name="view_divide">#f2f2f2</color>
+    <color name="createstory">#4b4c50</color>
+    <color name="Accent_Grey">#757575</color>
+    <color name="Accent_Dark">#282d4b</color>
+    <color name="bg_screen1">#16c266</color>
+    <color name="bg_screen2">#90c2bb</color>
+    <color name="gray">#808080</color>
+    <color name="blacks">#302E2E</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#477E02</color>
+    <color name="dot_dark_screen2">#3D6C02</color>
+    <color name="dot_dark_screen3">#3D6C02</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#75C50E</color>
+    <color name="dot_light_screen2">#7ED510</color>
+    <color name="dot_light_screen3">#7ED510</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+    </array>
+
+    <color name="purple">#9930c7</color>
+    <color name="blue">#216afc</color>
+    <color name="lightBlue">#558EFF</color>
+    <color name="orange">#ff9045</color>
+    <color name="lightest_gray">#e6e6e6</color>
+    <color name="dark_violet">#4c24ff</color>
+    <color name="light_violet">#f6f4ff</color>
+    <color name="indicatorColor">#2DFFFFFF</color>
+    <color name="iconTint">#C8FFFFFF</color>
+    <color name="iconTintActive">#ffffff</color>
+</resources>

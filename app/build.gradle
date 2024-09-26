@@ -1,0 +1,65 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.vasp.ishwariabhi'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "com.vasp.ishwariabhi"
+        minSdk 24
+        targetSdk 34
+        versionCode 21
+        versionName "3.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+
+    implementation 'androidx.appcompat:appcompat:1.6.0'
+    implementation 'com.google.android.material:material:1.12.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'androidx.activity:activity:1.9.1'
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.2.1'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.6.1'
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+    implementation 'com.squareup.picasso:picasso:2.71828'
+    implementation 'com.github.ibrahimsn98:SmoothBottomBar:1.7.6'
+    implementation 'com.iceteck.silicompressorr:silicompressor:2.2.4'
+    implementation 'com.squareup.okhttp3:okhttp:4.12.0'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'com.github.f0ris.sweetalert:library:1.6.2'
+
+    implementation 'com.google.android.gms:play-services-identity:18.1.0'
+    implementation 'com.google.android.gms:play-services-base:18.5.0'
+    implementation 'com.google.android.play:app-update:2.1.0'
+    implementation 'com.github.barteksc:android-pdf-viewer:2.8.2'
+    implementation 'com.google.firebase:firebase-core:21.1.1'
+    implementation 'com.google.firebase:firebase-messaging:24.0.1'
+    implementation 'com.itextpdf:itextg:5.5.10'
+    implementation 'pub.devrel:easypermissions:3.0.0'
+    def multidex_version = "2.0.1"
+    implementation "androidx.multidex:multidex:$multidex_version"
+    implementation "com.airbnb.android:lottie:6.2.0"
+
+    implementation 'com.wdullaer:materialdatetimepicker:3.6.4'
+    implementation 'com.github.chivorns:smartmaterialspinner:1.5.0'
+}
+apply plugin: 'com.google.gms.google-services'

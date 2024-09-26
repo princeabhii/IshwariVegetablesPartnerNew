@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">ईश्वरी वेजिटेबल्स</string>
+    <string name="app_version">Version 3.0</string>
+    <string name="open_nav">navigation_view_opened</string>
+    <string name="close_nav">navigation_view_closed</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="update_profile">प्रोफाइल अपडेट करा</string>
+    <string name="generating_pdf">पीडीएफ तयार करत आहे</string>
+    <string name="please_wait">कृपया थांबा</string>
+    <string name="pdf_generated_do_you_want_to_open">तुम्हाला तयार केलेली पीडीएफ उघडायची आहे का?</string>
+    <string name="yes">होय</string>
+    <string name="no">नाही</string>
+    <string name="cart">कार्ट</string>
+    <string name="no_vegetables_found">भाजी मिळाली नाही</string>
+    <string name="ordering_to">आदेश देत आहे</string>
+    <string name="place_order">मागणी नोंद करा</string>
+    <string name="search_vegetables">भाज्या शोधा</string>
+    <string name="order_history">ऑर्डर इतिहास</string>
+    <string name="order_date">मागणीची तारीख</string>
+    <string name="from_date">या तारखेपासून</string>
+    <string name="to_date">या तारखेपर्यंत</string>
+    <string name="my_profile">माझे प्रोफाइल</string>
+    <string name="account">खाते</string>
+    <string name="update">अपडेट करा</string>
+    <string name="logout">बाहेर पडा</string>
+    <string name="name">नाव</string>
+    <string name="email">ईमेल</string>
+    <string name="phone">फोन</string>
+    <string name="password">पासवर्ड</string>
+    <string name="order_no">ऑर्डर क्रमांक</string>
+    <string name="order_status">आदेश स्थिती</string>
+    <string name="items">वस्तू</string>
+    <string name="order_placed_to">ऑर्डर दिले ईश्वरी व्हेजिटेबलस</string>
+    <string name="payment_status">पैसे भरल्याची स्थिती</string>
+    <string name="paid">पैसे दिले</string>
+    <string name="unpaid">पैसे नाही दिले</string>
+    <string name="order_placed_on">ऑर्डर दिली</string>
+    <string name="price_not_set">किंमत सेट नाही</string>
+    <string name="total_amount_rs">एकूण रक्कम रुपये</string>
+    <string name="rejected">नाकारले</string>
+    <string name="accepted">स्वीकारले</string>
+    <string name="pending">प्रलंबित</string>
+    <string name="view_details">माहिती पहा</string>
+    <string name="add">जोडा</string>
+    <string name="added">जोडले !</string>
+    <string name="qty">प्रमाण</string>
+
+</resources>
